@@ -1,0 +1,20 @@
+# Virtual environment Python
+env/
+.venv/
+venv/
+
+# File temporanei Python
+__pycache__/
+*.py[cod]
+
+# Git
+.git
+
+# File con variabili o segreti
+.env
+.env.*
+
+# File dell' editor e del sistema operativo
+.vscode/
+.idea/
+.DS_Store
